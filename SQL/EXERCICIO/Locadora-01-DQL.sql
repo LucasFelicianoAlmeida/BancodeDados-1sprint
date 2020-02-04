@@ -1,3 +1,3 @@
 USE Locadora_manha;
 
-SELECT  FROM 
+SELECT * FROM 
